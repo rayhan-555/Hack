@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: hgzy-prediction-bot
-    env: python
-    buildCommand: ""
-    startCommand: python main.py
-    envVars:
-      - key: BOT_TOKEN
-        value: 8089047477:AAF4DNls88mau_ayvi6j5WFGHbaJFLEhWqo
